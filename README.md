@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexanderHargrave
-- 👀 I’m interested in 3d Modelling and Machine Learning
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Machine Learning and AI
+- 🌱 I’m currently learning JavaScript, ReactJs
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me ...
 
